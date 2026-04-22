@@ -791,7 +791,6 @@
     background: url(img/top2.jpg);
     background-size: cover;
     background-attachment: fixed;
-    filter: grayscale(.5);
   }
 
 
